@@ -17,7 +17,7 @@ https://stock-predictor1.herokuapp.com/
 ## Screenshots
 Here is an example of the opening page which shows the closing prices of both stocks
 ![ScreenShot](/Screenshots/Front.png)
-
+https://stock-predictor1.herokuapp.com/static/images/stock2.gif
 
 Here is an example of our prediction for Cisco Systems, Inc.
 ![ScreenShot](/Screenshots/CSCO.png)
